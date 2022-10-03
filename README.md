@@ -18,7 +18,11 @@ To run this game, open the game folder in your IDE and run the makefile. After a
 ```
 ./azul
 ```
-This will take you to the main menu where you can start the game. To clean up the files run the following command
+This will take you to the main menu where you can start the game. Once you have started the game turns can be made with the following command
+```
+Turn <factory> <tile> <row>
+```
+To clean up the files run the following command
 ```
 make clean
 ```
